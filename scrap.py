@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import requests
 from bs4 import BeautifulSoup
-from openpyxl import Workbook
 
 # PREMIERE ETAPE : on va lire le fichier et parser touts les urls pour les mettre dans une array
 urls = #fait ton job
